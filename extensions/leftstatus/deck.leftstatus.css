@@ -1,0 +1,12 @@
+.deck-container .deck-leftstatus {
+  position: absolute;
+  bottom: 10px;
+  left: 5px;
+  color: #888;
+  z-index: 3;
+  margin: 0;
+}
+
+body.deck-container .deck-leftstatus {
+  position: fixed;
+}
